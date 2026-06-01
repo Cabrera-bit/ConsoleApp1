@@ -41,7 +41,7 @@ name: .NET Build
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
