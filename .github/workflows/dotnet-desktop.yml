@@ -60,4 +60,4 @@ jobs:
 
       - name: Compilar proyecto
         run: dotnet build --no-restore
-      run: dotnet restore
+ 
